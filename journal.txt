@@ -2,3 +2,4 @@ Aujourd'hui, je commence mon premier projet Git.
 J'apprends à utiliser les commandes Git.
 Je comprends maintenant le fonctionnement des commits.
 Je teste maintenant la commande git diff.
+Je maîtrise maintenant GitHub.
