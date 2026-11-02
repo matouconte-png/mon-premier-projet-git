@@ -1,0 +1,35 @@
+ATELIER : REMONTE LE TEMPS AVEC GIT
+
+ÉTAPE 1 – OBSERVER LA LIGNE DU TEMPS
+
+Nombre de commits : 2.
+
+Message du dernier commit : Troisieme modification.
+
+ÉTAPE 2 – EXPLORER LE CONTENU D’UN COMMIT
+
+Hash du commit : 6c64739
+
+Fichier modifié : journal.txt.
+
+Modification ajoutée : « Je comprends maintenant le fonctionnement des commits. »
+
+ÉTAPE 3 – COMPARER DEUX VERSIONS
+
+J’ai comparé mes deux derniers commits avec la commande git diff HEAD~1..HEAD.
+
+Modification observée : une nouvelle phrase a été ajoutée dans le fichier journal.txt.
+
+La modification est claire car elle explique ce que j’ai appris sur le fonctionnement des commits.
+
+ÉTAPE 4 – DÉFI ARCHÉOLOGUE DU CODE
+
+Hash du camarade : 73bbc73f82ac673772cdf265f81095717a703a56
+
+Fichier modifié : journal.txt.
+
+Modification effectuée : ajout d’une ligne contenant le nombre 123.
+
+Objectif du camarade : ajouter une nouvelle information dans son fichier.
+
+Clarté du message : le message est compréhensible, mais il pourrait être plus précis.
