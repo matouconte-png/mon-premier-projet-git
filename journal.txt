@@ -1,2 +1,3 @@
 Aujourd'hui, je commence mon premier projet Git.
 J'apprends à utiliser les commandes Git.
+Je comprends maintenant le fonctionnement des commits.
