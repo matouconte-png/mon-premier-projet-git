@@ -1,0 +1,2 @@
+Aujourd'hui, je commence mon premier projet Git.
+J'apprends à utiliser les commandes Git.
